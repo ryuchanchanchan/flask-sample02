@@ -8,7 +8,12 @@
 <p>今日の運勢は...{{ result }}？？</p>
 {% if result == "大吉" %}
 <p>やったね！</p>
-{% endif %}
 
+{% elif result == "吉" %}
+<p>よし！</p>
+
+{% elif result == "凶" %}
+<p>あらら！</p>
+{% endif %}
 </body>
 </html>
