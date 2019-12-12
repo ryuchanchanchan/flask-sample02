@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d773720a-a6c7-4c47-a2d9-2e95f47255a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/omikuji.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/omikuji.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omikuji.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576162327329</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="{% elif result == &quot;凶&quot; %}追加">
+      <created>1576162964804</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576162964804</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +206,8 @@
     <MESSAGE value="レンダー機能を使った" />
     <MESSAGE value="nameをhello.htmlと直結" />
     <MESSAGE value="大吉の時だけ「やったね！」追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="大吉の時だけ「やったね！」追加" />
+    <MESSAGE value="{% elif result == &quot;凶&quot; %}追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="{% elif result == &quot;凶&quot; %}追加" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
